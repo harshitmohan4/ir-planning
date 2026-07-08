@@ -1,4 +1,4 @@
-# 🚨 Incident Response Planning & Execution – Week 4 Task 1
+#  Incident Response Planning & Execution – Week 4 Task 1
 
 ## Overview
 
@@ -34,7 +34,7 @@ ir-planning/
 
 ---
 
-## 📄 Key Documents
+##  Key Documents
 
 - 📋 [Full IR Plan](plans/incident_response_plan.md)
 - 🎯 [Simulated Exercise Report](exercise/simulated_exercise_report.md)
@@ -43,7 +43,7 @@ ir-planning/
 
 ---
 
-## 👤 Author
+## Author
 
 **Harshit Mohan**
 MCA – Cybersecurity Specialization | Jain University, Bangalore
