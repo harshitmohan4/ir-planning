@@ -45,6 +45,6 @@ ir-planning/
 
 ## 👤 Author
 
-**Harshit**
+**Harshit Mohan**
 MCA – Cybersecurity Specialization | Jain University, Bangalore
 Cybersecurity Internship – Week 4, Task 1
